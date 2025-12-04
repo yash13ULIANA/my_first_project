@@ -1,4 +1,4 @@
-/* Загальні стилі */
+/* Р—Р°РіР°Р»СЊРЅС– СЃС‚РёР»С– */
 body {
     margin: 0;
     font-family: 'Roboto', sans-serif;
@@ -210,3 +210,4 @@ body {
     border-radius: 25px;
     cursor: pointer;
 }
+
